@@ -11,11 +11,40 @@
             "id": "b6d5254e4f161eea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "golang/dlv debug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60811d0ed6534b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/dlv debug.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9887d2a7cb4019bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +129,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "86ad36bcd983dae6",
+  "active": "9887d2a7cb4019bc",
   "lastOpenFiles": [
+    "golang/dlv debug.md",
+    "golang/net.md",
     "xb/local 环境.md",
     "xb/测试环境.md",
     "Users/zhuyimin/docker/compose-api-7.3/php.md",
     "xb/docker-compose.md",
-    "未命名.canvas",
-    "golang/net.md"
+    "未命名.canvas"
   ]
 }
