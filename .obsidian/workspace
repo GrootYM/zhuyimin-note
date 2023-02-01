@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "6ef17c84e0485bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c67c0c9a040873",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "xb/测试环境.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b5d157e7a536fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f540c5152b7b12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ad36bcd983dae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ad9ceea13a2ff35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55699a46b56f9146",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e876bebb1967f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e87d7963b8020f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "xb/测试环境.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58c67c0c9a040873",
+  "lastOpenFiles": [
+    "xb/测试环境.md",
+    "golang/net.md"
+  ]
+}

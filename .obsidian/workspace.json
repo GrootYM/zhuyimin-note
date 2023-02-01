@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "6ef17c84e0485bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be305a93aaca592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d5254e4f161eea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b5d157e7a536fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f540c5152b7b12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ad36bcd983dae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ad9ceea13a2ff35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55699a46b56f9146",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e876bebb1967f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e87d7963b8020f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "86ad36bcd983dae6",
+  "lastOpenFiles": [
+    "xb/local 环境.md",
+    "xb/测试环境.md",
+    "Users/zhuyimin/docker/compose-api-7.3/php.md",
+    "xb/docker-compose.md",
+    "未命名.canvas",
+    "golang/net.md"
+  ]
+}
